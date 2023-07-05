@@ -12,7 +12,7 @@ Certifique-se de ter o Rust instalado em sua máquina. Se você ainda não tiver
 
 1. Clone este repositório em sua máquina local:
 
-git clone https://github.com/Rust_Projects_Study.git
+git clone https://github.com/klebernicolau/criptografia.git
 
 2. Navegue até o diretório do projeto:
 
